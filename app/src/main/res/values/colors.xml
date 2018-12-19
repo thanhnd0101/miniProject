@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="myColorPrimary">#e47940</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="item_place_category_color">#00be09</color>
+    <color name="item_place_name_color">#000000</color>
+    <color name="main_tab_layout_color">#a8d602</color>
+</resources>

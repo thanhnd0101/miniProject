@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_place_category_text_size">15sp</dimen>
+    <dimen name="item_place_name_text_size">20sp</dimen>
+
+    <dimen name="item_place_cardview_margin">10dp</dimen>
+    <dimen name="item_place_cardview_heigth">300dp</dimen>
+    <dimen name="item_place_cardview_elevation">5dp</dimen>
+    <dimen name="item_place_imageview_height">300dp</dimen>
+    <dimen name="detail_top_margin">12dp</dimen>
+</resources>
